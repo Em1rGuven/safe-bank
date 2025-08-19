@@ -1,6 +1,6 @@
 # simple-bank-service
 
-| Method | Endpoint  | Açıklama        |
+| Method | Endpoint  | Explanation        |
 | ------ | --------- |-----------------|
 | POST   | /register | New user        |
 | POST   | /login    | Login           |
